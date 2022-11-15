@@ -1,0 +1,30 @@
+* {
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+header {
+    position: fixed;
+    height: 69px;
+    display: inline-block;
+    z-index: 1;
+    width: 100%;
+}
+header img {
+    left: 10px;
+    height: 50px;
+}
+#navigation {
+    display: inline;
+    float: right;
+}
+#navigation ul {
+    list-style-type: none;
+}
+li a {
+    text-decoration: underline;
+    padding: 10px;
+}
