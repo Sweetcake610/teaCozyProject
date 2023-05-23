@@ -10,7 +10,7 @@ These are usually created by a designer as a source of instructions for a web de
 
 In order to get a better understanding of how to use react I decided to take this project and create a react version. By following a different tutorial I was able to create an indexReact.html file and duplicate the layout of the original project. Within this version of the project, I gained a better understanding:
 
-*JSX syntax
-*Rendering elements using React Fragments
-*Create simple reusable React Components
-*Styling React Components
+* JSX syntax
+* Rendering elements using React Fragments
+* Create simple reusable React Components
+* Styling React Components
